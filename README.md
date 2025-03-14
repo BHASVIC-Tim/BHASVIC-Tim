@@ -9,6 +9,9 @@ Obviously I also teach topics such as Boolean logic, number reprresentation, dat
 
 ## My history
 
+## My repositories
+For fun I dabble with the [advent of code](https://adventofcode.com/) each year, sometimes in C and sometimes in Java
+
 
 <!--
 **BHASVIC-Tim/BHASVIC-Tim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
